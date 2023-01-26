@@ -27,7 +27,7 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
+➾ Developers : Rk_botz
 ➾ Language : Python3
 ➾ Framework : Pyrogram
 ➾ Database : Mongo db
@@ -36,7 +36,7 @@ We are currently developing this bot, using only the Pyrogram library.
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
+Dev : [Muhammed](t.me/Rk_botowner)
 Paytm : [Click Here](https://tools.apgy.in/upi/Rk_botz/8757081330@paytm/)
   or UPI `8757081330@paytm`
 """
